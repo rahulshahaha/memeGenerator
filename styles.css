@@ -14,4 +14,10 @@
 	#mySelect{
 		width: 100%;
 	}
+
+	#textholder {
+  display: flex;
+  justify-content: space-between;
+}
+
 }
