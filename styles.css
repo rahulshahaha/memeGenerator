@@ -1,11 +1,15 @@
 .imgHolder {
    display: block;
-   max-width: 500px;
+   //max-width: 500px;
 }
 
 @media (max-width: 800px) {
 	.imgHolder{
 		width:100%;
 		margin:0 0 0 0;
+		max-width: auto;
+	}
+	#mySelect{
+		width: 100%;
 	}
 }
