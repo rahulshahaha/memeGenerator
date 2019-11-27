@@ -1,6 +1,8 @@
 .imgHolder {
    display: block;
    //max-width: 500px;
+   width:50%;
+   //height:50%;
 }
 
 @media (max-width: 800px) {
