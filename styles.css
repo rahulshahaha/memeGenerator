@@ -15,7 +15,7 @@
 		width: 100%;
 	}
 
-	#textholder {
+	#textholder, #xPosition {
   display: flex;
   justify-content: space-between;
 }
